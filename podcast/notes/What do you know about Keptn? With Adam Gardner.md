@@ -36,7 +36,7 @@ V: Then, Keptn is more of a friend to SRE team, which addresses problems of SREs
 
 ## How Keptn can help oragnizations to reduce their MTTR and make monitoring decisions automated?
 Keptn is tool and vendor agnostic. No vendor lock-in. You bring your monitoring tool and Keptn orchestrates it.
-For example: ```**keptn configure monitoring Prometheus**``` – the Prometheus integration coder decided that when you issue that command, you should get Prom thresholds and alerts preconfigured for you.
+For example: ```keptn configure monitoring Prometheus``` – the Prometheus integration coder decided that when you issue that command, you should get Prom thresholds and alerts preconfigured for you.
 The Dynatrace integration automatically creates management zones, dashboards and tag rules.
 
 V: That’s wonderful! This means developers can write Keptn integrations to their service or tools and support to their own monitoring platform. Even in this case, Keptn works like a charm. Keptn is not a direct contributor for reducing MTTD or MTTR but Keptn definitely helps organisations to get there by adapting to organisation’s monitoring tool and helping the tool to have the ability to automate the releases. This is a symbiosis between monitoring tool and Keptn. Keptn is indeed a friend of SREs. 
